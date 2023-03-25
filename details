@@ -1,0 +1,7 @@
+create app regitration in azure portal
+select roles - add roles -search app registartion name select and add
+install terraform in the local machine
+first create resource group with acr registry
+next 
+create linux web with container
+go to web app service and deployement slots add acr details imagename tags etc
